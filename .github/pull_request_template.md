@@ -1,7 +1,8 @@
 ### Summary of changes
 
-### Related GitHub and Fly.io community links
-n/a if none
+### Preview
+
+### Related Fly.io community and GitHub links
 
 ### Notes
-n/a if none
+
